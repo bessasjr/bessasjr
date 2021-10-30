@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bessasjr. I'm a beginner programmer, Linux enthusiast
+- 👋 Hi, I’m Junior Bessas ( @bessasjr ). I'm a beginner programmer, Linux enthusiast
 - 👀 I’m interested in in learn as much as possible about software development, especially automation software
 - 🌱 I’m currently learning Python, Django and Git
 - 💞️ I’m looking to collaborate on automation projects
