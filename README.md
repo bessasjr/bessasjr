@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Junior Bessas ( @bessasjr ). I'm a beginner programmer, Linux enthusiast
-- 👀 I’m interested in in learn as much as possible about software development, especially automation software
+- 👀 I’m interested in in learn as much as possible about software development, especially automation software and Data Science
 - 🌱 I’m currently learning Python, SQL, Data Science
 - 💞️ I’m looking to collaborate on automation projects
 - 📫 How to reach me bessasjr@gmail.com
