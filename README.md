@@ -1,8 +1,28 @@
-- 👋 Hi, I’m Junior Bessas ( @bessasjr ). I'm a beginner programmer, Linux enthusiast
-- 👀 I’m interested in in learn as much as possible about software development, especially automation software and Data Science
-- 🌱 I’m currently learning Python, SQL, Data Science
-- 💞️ I’m looking to collaborate on automation projects
-- 📫 How to reach me bessasjr@gmail.com
+<img src="https://github.com/bessasjr/bessasjr/blob/main/banner_05.jpg">
+
+<h4>About me</h4>
+
+Hello. I'm Junior Bessas, (@bessasjr). I'm a programmer, focused on data science and analysis, and process automation. Linux enthusiast, I believe that today, open source is the main key to transforming into a more egalitarian society.
+
+I'm currently studying Dataviz, Flask, Machine Learning, SQL, Lua and Bash.
+
+I'm looking to collaborate on data analysis and automation projects.
+
+Learn more about me at <a href="https://biolink.ee/bessasjr/" target="_blank">bessasjr</a> 
+
+How to find me bessasjr@gmail.com
+<!---
+<br>
+<h4>My skills</h4>
+<div>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+  
+</div>
+--->
 
 <!---
 bessasjr/bessasjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
