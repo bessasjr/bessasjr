@@ -2,7 +2,7 @@
 
 <h4>About me</h4>
 
-Hello. I'm Junior Bessas, (@bessasjr). I'm a programmer, focused on data science and analysis, and process automation. Linux enthusiast, I believe that today, open source is the main key to transforming into a more egalitarian society.
+Hello. I'm Junior Bessas, (@bessasjr). I'm a programmer, focused on data science and analysis, and process automation. Linux enthusiast, I believe that today the adoption of open source is one of the main keys to transforming us into a more egalitarian society.
 
 I'm currently studying Dataviz, Flask, Machine Learning, SQL, Lua and Bash.
 
