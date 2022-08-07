@@ -11,9 +11,11 @@ I'm looking to collaborate on data analysis and automation projects.
 Learn more about me at <a href="https://biolink.ee/bessasjr/" target="_blank">bessasjr</a> 
 
 How to find me bessasjr@gmail.com
+
+
 <!---
 <br>
-<h4>My skills</h4>
+<h4>Languages and Tools</h4>
 <div>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -22,6 +24,12 @@ How to find me bessasjr@gmail.com
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
   
 </div>
+--->
+
+<!---
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbessasjr1212%2Fhit-counter" />
+<img src="https://github-readme-stats.vercel.app/api?username=bessasjr" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bessasjr&layout=compact)](https://github.com/bessasjr/github-readme-stats)
 --->
 
 <!---
