@@ -4,7 +4,7 @@
 
 Hello. I'm Junior Bessas, (@bessasjr). I'm a programmer, focused on data science and analysis, and process automation. Linux enthusiast, I believe that today the adoption of open source is one of the main keys to transforming us into a more egalitarian society.
 
-I'm currently studying Dataviz, Flask, Machine Learning, SQL, Lua and Bash.
+I'm currently studying Dataviz, PowerBi and Julia Lang.
 
 I'm looking to collaborate on data analysis and automation projects.
 
