@@ -8,9 +8,9 @@ I'm currently studying Linear Algebra, Machine Learning and Julia language.
 
 I'm looking to collaborate on data analysis and automation projects.
 
-Learn more about me at <a href="https://biolink.ee/bessasjr/" target="_blank">bessasjr</a> 
+Learn more about me at <a href="https://bessasjr.dev.br/" target="_blank">bessasjr</a> 
 
-How to find me bessasjr@gmail.com
+How to find me contato@bessasjr.dev.br
 
 
 <!---
