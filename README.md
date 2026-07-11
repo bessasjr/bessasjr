@@ -6,7 +6,6 @@
 - 🐍 Stack principal: Python (GeoPandas, Rasterio, Pandas, Scikit-learn, Folium, Flask) + QGIS
 - 📍 Brasília, DF
 - 🔭 Buscando atuar em projetos ambientais e territoriais onde o geoprocessamento e a tecnologia sejam aplicados de forma estratégica.
-- 🌱 Estudando Agrimensura e me aprofundando em ArcGIS
 - 💬 Fale comigo sobre geoprocessamento, dados ambientais ou automação de fluxos GIS
 - 📫 Contato: bessasjr@gmail.com
 - 🔗 Portfólio: [bessasjr.dev.br](https://bessasjr.dev.br) · [LinkedIn](https://linkedin.com/in/junior-bessas)
