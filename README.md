@@ -1,4 +1,43 @@
-<img src="https://github.com/bessasjr/bessasjr/blob/main/banner_05.jpg">
+# Olá, eu sou o Junior Bessas 👋
+
+**Analista de Geoprocessamento | Desenvolvedor GIS**
+
+- 🌎 Trabalho com análise espacial aplicada a meio ambiente e uso do território, usando dados públicos brasileiros (MapBiomas, MMA, IBGE)
+- 🐍 Stack principal: Python (GeoPandas, Rasterio, Pandas, Scikit-learn, Folium, Flask) + QGIS
+- 📍 Brasília, DF
+- 🔭 Buscando atuar em projetos ambientais e territoriais onde o geoprocessamento e a tecnologia sejam aplicados de forma estratégica.
+- 🌱 Estudando Agrimensura e me aprofundando em ArcGIS
+- 💬 Fale comigo sobre geoprocessamento, dados ambientais ou automação de fluxos GIS
+- 📫 Contato: bessasjr@gmail.com
+- 🔗 Portfólio: [bessasjr.dev.br](https://bessasjr.dev.br) · [LinkedIn](https://linkedin.com/in/junior-bessas)
+
+---
+
+### 🛰️ Projeto em destaque
+
+**[Vulnerabilidade Territorial do Cerrado — Áreas Protegidas sob Pressão Antrópica](https://bessasjr.dev.br/portfolio/vulnerabilidadedocerrado/)**
+Análise multicritério geoespacial de 615 Unidades de Conservação do bioma Cerrado. Reprojeção para EPSG:5880, geração de buffers, reclassificação de raster e construção de um índice de pressão antrópica com sete variáveis, a partir de dados do MapBiomas Collection 10, MMA e IBGE.
+`Python` `GeoPandas` `Rasterio` `Scikit-learn` `Folium` `QGIS`
+
+---
+
+### 🧰 Tecnologias e ferramentas
+
+`Python` · `GeoPandas` · `Rasterio` · `Pandas` · `Scikit-learn` · `Folium` · `Flask` · `QGIS` · `Git`
+
+---
+
+### 🎓 Formação
+
+- Pós-graduação em Geoprocessamento e Georreferenciamento (em andamento)
+- Pós-graduação em Business Intelligence, Big Data e Inteligência Artificial
+- Pós-graduação em Estatística Aplicada
+- Graduação em Gestão Financeira
+- Certificações freeCodeCamp: Computação Científica, Análise de Dados
+
+
+
+<!-- <img src="https://github.com/bessasjr/bessasjr/blob/main/banner_05.jpg">
 
 <h4>About me</h4>
 
@@ -10,7 +49,7 @@ I'm looking to collaborate on data analysis and automation projects.
 
 Learn more about me at <a href="https://bessasjr.dev.br/" target="_blank">bessasjr</a> 
 
-How to find me contato@bessasjr.dev.br
+How to find me contato@bessasjr.dev.br -->
 
 
 <!---
